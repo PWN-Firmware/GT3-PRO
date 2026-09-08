@@ -18,6 +18,7 @@ The firmware is built for the GT3 Pro VCU. It talks to the other scooter modules
 These settings are not in the stock firmware. They are configured in the **PowerNine** app over BLE and stored on the VCU.
 
 - Emergency mode (police mod): default on/off and a speed cap of 3–50 km/h
+- Infinite boost
 - Motor current limit (Iq) separately for Eco / Sport / Race: Stock or 1–200 A
 - Battery current limit separately for Eco / Sport / Race: Stock or 1–150 A
 - Beeper volume 0–100%
