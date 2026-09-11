@@ -31,6 +31,10 @@ Stock means the factory limit for that mode, not zero current. Current values ar
 
 The official Segway-Mobility app can still be used for everyday pairing and stock functions.
 
+## Dump the stock VCU first
+
+Before flashing anything, make a full 128 KB backup of the VCU over ST-LINK. Wiring, x3utils steps (Chrome, Android, Windows, macOS, Linux), and what a good dump looks like: **[FAQ.md](FAQ.md)**.
+
 ## Bug reports and feature requests
 
 If you find a bug or want to request a feature, please open an issue: [github.com/PWN-Firmware/GT3-Pro/issues](https://github.com/PWN-Firmware/GT3-Pro/issues)
